@@ -46,7 +46,8 @@ This is a simple web application created using **Streamlit** that allows placeme
 ### 1. Install Required Libraries
 
 Open your terminal or command prompt and run:
-```pip install streamlit faker sqlalchemy
+```
+pip install streamlit faker sqlalchemy
 ```
 
 ---
@@ -54,14 +55,16 @@ Open your terminal or command prompt and run:
 ### 2. Generate Fake Student Data
 
 This will create the `students.db` database with 4 tables and fake records:
- ```python data_generator.py
+ ```
+python data_generator.py
  ```
 ---
 
 ### 3. Run the Streamlit App
 
 This command will launch the web app in your default browser:
- ```python -m streamlit run app.py
+ ```
+python -m streamlit run app.py
  ```
 
 
@@ -87,6 +90,6 @@ The application includes the following SQL insights:
 ## 🙋‍♂️ Developer
 
 **Jaisrinivas P K**  
-Project Submitted to: **GUVI - EdTech Capstone Submission**  
+Project Submitted to: **GUVI - Project Submission**  
 Domain: **Data Science**
 ---
